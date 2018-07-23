@@ -3,7 +3,7 @@
 # First, puts out a string asking where the tourist would like to stay.
 puts "Let's plan your trip! Where would you like to stay?"
 
-stay = gets.chomp.
+stay = gets.chomp
 
 puts "What would you like to eat?"
 
