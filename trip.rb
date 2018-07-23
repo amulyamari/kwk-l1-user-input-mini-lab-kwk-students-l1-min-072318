@@ -13,4 +13,4 @@ puts "What will you do during your trip?"
 
 do= gets.chomp
 
-puts "Wecome to my town! You will be staying at #{stay}. Then, youll be eating #{eat}. Lastly, youll do a lot of stuff during your trip like #{do}. Hope you have fun!"
+puts "Welcome to mn! You will be staying at #{stay}. Then, youll be eating #{eat}. Lastly, youll do a lot of stuff during your trip like #{do}. Hope you have fun!"
